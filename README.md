@@ -58,6 +58,9 @@ Note in this case you should select specific category like Apparel  Shoes
     3- Generate a professional report
  - [Website Link on which testing was carried](https://demo.nopcommerce.com/)
 
+## Screenshots
+
+![App Screenshot1](https://github.com/AMF777/E-commerceAppAutomationTestingFinal/blob/master/report.JPG)
 
 
 
